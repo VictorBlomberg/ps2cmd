@@ -23,6 +23,10 @@ And get `example.ps1.cmd`:
 SET PS2CMD_ARGS=%* & PowerShell.exe -NoProfile -EncodedCommand VwByAGkAdABlAC0ASABvAHMAdAAgACQAZQBuAHYAOgBQAFMAMgBDAE0ARABfAEEAUgBHAFMAOwAgAGYAdQBuAGMAdABpAG8AbgAgAHMAdABlAHAAMgAgAHsAIABXAHIAaQB0AGUALQBIAG8AcwB0ACAASABlAGwAbABvACAAVwBvAHIAbABkACEADQAKACAAfQANAAoAcwB0AGUAcAAyACAAJABlAG4AdgA6AFAAUwAyAEMATQBEAF8AQQBSAEcAUwA=
 ````
 
+## Usages
+
+Used in [Nerven.Bygge](https://github.com/Nerven/Bygge/) to get the complete setup script in [a single, easily executable, script file](https://github.com/Nerven/Bygge/commit/92c64b1359a27c89947b1fcc25f8a6e49d3002aa).
+
 ## License
 
 The MIT License (MIT) (see LICENSE.txt)
